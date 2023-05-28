@@ -33,8 +33,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SRINIDHISENTHILNATHAN/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121373170/e701be1f-324c-4cde-8424-eeabd2c09a3a)
+
+
+### Name: SRINIDHI SENTHIL
+### Register Number:212222230148
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
